@@ -44,13 +44,13 @@
 		<footer>
 			<ul class="icons">
 				<li><a
-					href="https://www.facebook.com/profile.php?id=100002229033078"
+					href="http://www.facebook.com/profile.php?id=100002229033078"
 					class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 				<li><a href="http://instagram.com/heungg"
 					class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-				<li><a href="https://github.com/Heungseop"
+				<li><a href="http://github.com/Heungseop"
 					class="icon fa-github"><span class="label">Github</span></a></li>
-				<li><a href="https://healingg.xo.st"
+				<li><a href="http://healingg.xo.st"
 					class="icon fa-code"><span class="label">Healing</span></a></li>
 						
 				<!--		<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li> -->
